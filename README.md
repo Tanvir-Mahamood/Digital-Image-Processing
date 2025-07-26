@@ -46,3 +46,11 @@
 ### (j) Write a program to perform the appropriate operations on the given input image and display the output images: Spatial Resolution Reduction, Color Quantization.
 ![j](https://github.com/Tanvir-Mahamood/Digital-Image-Processing/blob/main/lab01/j.png)
 
+# <p align='center'>Lab 02</p>
+## Tasks and Outputs:
+### (a) Generate a Gray Scalecale Image.
+![a](https://github.com/Tanvir-Mahamood/Digital-Image-Processing/blob/main/lab02/0.jpg)
+### (b) Perform different types of Interpolation to increase dize and display them.
+![b](https://github.com/Tanvir-Mahamood/Digital-Image-Processing/blob/main/lab02/1.png)
+### (c) Perform Bilinear Interpolation manually.
+![c](https://github.com/Tanvir-Mahamood/Digital-Image-Processing/blob/main/lab02/2.jpg) 
