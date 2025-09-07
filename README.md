@@ -54,3 +54,20 @@
 ![b](https://github.com/Tanvir-Mahamood/Digital-Image-Processing/blob/main/lab02/1.png)
 ### (c) Perform Bilinear Interpolation manually.
 ![c](https://github.com/Tanvir-Mahamood/Digital-Image-Processing/blob/main/lab02/2.jpg) 
+
+
+# <p align='center'>Lab 03</p>
+## Tasks:
+1. Take an input image.
+2. Show the histogram of the image.
+3. Perform Histogram Equalization.
+4. Create a target image.
+5. Perform Histogram Equalization
+
+## Input:
+**Input Low Cntrase Image** <br>
+![in](https://github.com/Tanvir-Mahamood/Digital-Image-Processing/blob/main/lab3/Low%20Contrast.png) <br>
+**Target Image for Specification** <br>
+![target](https://github.com/Tanvir-Mahamood/Digital-Image-Processing/blob/main/lab3/mask4.jpg)
+
+## Output or Observation
