@@ -71,3 +71,8 @@
 ![target](https://github.com/Tanvir-Mahamood/Digital-Image-Processing/blob/main/lab3/mask4.jpg)
 
 ## Output or Observation
+![](https://github.com/Tanvir-Mahamood/Digital-Image-Processing/blob/main/lab3/1.jpg)
+![](https://github.com/Tanvir-Mahamood/Digital-Image-Processing/blob/main/lab3/2.jpg)
+![](https://github.com/Tanvir-Mahamood/Digital-Image-Processing/blob/main/lab3/3.jpg)
+![](https://github.com/Tanvir-Mahamood/Digital-Image-Processing/blob/main/lab3/4.jpg)
+![](https://github.com/Tanvir-Mahamood/Digital-Image-Processing/blob/main/lab3/5.jpg)
