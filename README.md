@@ -76,3 +76,28 @@
 ![](https://github.com/Tanvir-Mahamood/Digital-Image-Processing/blob/main/lab3/3.jpg)
 ![](https://github.com/Tanvir-Mahamood/Digital-Image-Processing/blob/main/lab3/4.jpg)
 ![](https://github.com/Tanvir-Mahamood/Digital-Image-Processing/blob/main/lab3/5.jpg)
+
+
+
+
+# <p align='center'>Lab 04</p>
+## Tasks and Outputs:
+- Task1: Based on [Lina.png](https://github.com/Tanvir-Mahamood/Digital-Image-Processing/blob/main/DIP_Prac_04/images/lenna.png)
+   1. Apply Standard Average Filter.
+   2. Apply Weighted Average Filter.
+   3. Apply Median filter. <br>
+   Based on [road.bmp](https://github.com/Tanvir-Mahamood/Digital-Image-Processing/blob/main/DIP_Prac_04/images/road.bmp)
+   4. Apply Laplacian Filter.
+   5. Apply Sobel Operator.
+- Task2: Apply
+  1. Unsharp Masking
+  2. High Boost Filtering
+
+  
+Output of Task 1: 
+![](https://github.com/Tanvir-Mahamood/Digital-Image-Processing/blob/main/DIP_Prac_04/images/task1.jpg)
+
+
+Output of Task 2:
+![](https://github.com/Tanvir-Mahamood/Digital-Image-Processing/blob/main/DIP_Prac_04/images/task2.jpg)
+
